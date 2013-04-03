@@ -15,6 +15,26 @@ PrendarioHome
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
+</member><member name="P:PrendarioHome.My.Resources.Resources._1365033402_cur_dollar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrendarioHome.My.Resources.Resources._1365034970_security_black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrendarioHome.My.Resources.Resources._1365034970_security_black_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrendarioHome.My.Resources.Resources.cliente">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrendarioHome.My.Resources.Resources.Coin_C_512_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:PrendarioHome.My.Resources.Resources.net_prendario">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
