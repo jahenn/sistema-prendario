@@ -1,0 +1,98 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prendario
+</name>
+</assembly>
+<members>
+<member name="M:prendario.wsLic.wsLic2.#ctor">
+	<remarks/>
+</member><member name="E:prendario.wsLic.wsLic2.getLicenciaCompleted">
+	<remarks/>
+</member><member name="M:prendario.wsLic.wsLic2.getLicencia(System.String)">
+	<remarks/>
+</member><member name="M:prendario.wsLic.wsLic2.getLicenciaAsync(System.String)">
+	<remarks/>
+</member><member name="M:prendario.wsLic.wsLic2.getLicenciaAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:prendario.wsLic.wsLic2.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:prendario.wsLic.wsLic2">
+	<remarks/>
+</member><member name="P:prendario.wsLic.RespLicencia.Licencia">
+	<remarks/>
+</member><member name="P:prendario.wsLic.RespLicencia.Fecha">
+	<remarks/>
+</member><member name="T:prendario.wsLic.RespLicencia">
+	<remarks/>
+</member><member name="T:prendario.wsLic.getLicenciaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:prendario.wsLic.getLicenciaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:prendario.wsLic.getLicenciaCompletedEventArgs">
+	<remarks/>
+</member><member name="P:prendario.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources._1328295919_doc_new">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources._1328296019_cur_dollar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources._1328637260_doc_export">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources._1328637306_doc_export">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources._1328637360_shop_cart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.add_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.add_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.fondito">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.LM">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.redo_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prendario.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:prendario.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
